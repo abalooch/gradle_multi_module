@@ -1,0 +1,4 @@
+rootProject.name = 'gd_multi_module'
+
+include 'library'
+include 'application'
